@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VisionAI</string>
+    <string name="tagline">Intelligent Visual Question Answering System</string>
+    <string name="empty_image_prompt">Upload or capture an image to begin</string>
+    <string name="ask_question_placeholder">Ask a question about this image…</string>
+    <string name="detect_objects">Detect Objects</string>
+    <string name="read_text">Read Text</string>
+    <string name="analyze_image">Analyze Image</string>
+    <string name="describe_image">Describe Image</string>
+</resources>

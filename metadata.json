@@ -1,0 +1,6 @@
+{
+  "name": "VisionAI",
+  "description": "Intelligent Visual Question Answering System using Multimodal AI and Computer Vision with OpenCV, YOLO, EasyOCR, scikit-image, PyTorch, and TensorFlow",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

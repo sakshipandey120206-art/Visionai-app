@@ -1,0 +1,30 @@
+# Python Computer Vision Engine Dependencies
+# VisionAI: Intelligent Visual Question Answering System
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.9
+pydantic>=2.6.0
+requests>=2.31.0
+
+# 1. OpenCV: Low-level image processing, validation, color space, filters
+opencv-python-headless>=4.9.0.80
+
+# 2. scikit-image: Scientific image analysis, exposure, edge filters, entropy
+scikit-image>=0.22.0
+
+# 3. YOLO (Ultralytics): Real-time object detection
+ultralytics>=8.1.0
+
+# 4. EasyOCR: Optical Character Recognition
+easyocr>=1.7.1
+
+# 5. PyTorch: Deep learning engine driving YOLO & tensor inference
+torch>=2.2.0
+torchvision>=0.17.0
+
+# 6. TensorFlow: Deep feature extraction, image preprocessing, classification
+tensorflow>=2.15.0
+
+numpy>=1.24.0,<2.0.0
+pillow>=10.2.0
